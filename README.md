@@ -1,4 +1,4 @@
-## Hi 👋, I'm Vamseelatha Thota
+# Hi 👋, I'm Vamseelatha Thota
 
 ## Python Developer | Automation Engineer | Validation Engineer
 
@@ -66,11 +66,6 @@ Passionate Python Developer with 4+ years of experience in Python automation, Li
 - iperf
 - netperf
 
-### Version Control
-- Git
-- GitHub
-- Gerrit
-
 ---
 
 ## 💼 Experience
@@ -106,13 +101,6 @@ Passionate Python Developer with 4+ years of experience in Python automation, Li
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ## 📚 Currently Learning
 
@@ -125,40 +113,6 @@ Passionate Python Developer with 4+ years of experience in Python automation, Li
 
 ---
 
-## 🏆 Skills
-
-✔ Python
-
-✔ Automation
-
-✔ Linux
-
-✔ PyTest
-
-✔ Networking
-
-✔ Git
-
-✔ Jenkins
-
-✔ Shell Scripting
-
-✔ Debugging
-
-✔ Validation
-
-✔ CI/CD
-
----
-
-## 🤝 Connect with Me
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Email: your.email@example.com
-
----
-
 ## 💡 Favorite Quote
 
 > "First, solve the problem. Then, write the code."
@@ -166,3 +120,13 @@ Passionate Python Developer with 4+ years of experience in Python automation, Li
 ---
 
 ⭐ Thanks for visiting my profile!
+
+
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?logo=linux)
+![Git](https://img.shields.io/badge/Git-Version_Control-red?logo=git)
+![PyTest](https://img.shields.io/badge/PyTest-Automation-green)
+![Automation](https://img.shields.io/badge/Automation-Python-success)
+
+
