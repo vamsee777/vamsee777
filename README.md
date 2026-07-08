@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vamseelatha Thota
+## Hi 👋, I'm Vamseelatha Thota
 
 ## Python Developer | Automation Engineer | Validation Engineer
 
